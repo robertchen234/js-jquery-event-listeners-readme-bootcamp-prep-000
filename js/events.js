@@ -1,7 +1,7 @@
 //define functions here
 
 function getIt(){
-  $('p').click(function() {
+  $('p').click(function(){
   alert( "Hey!" );
 });
 }
